@@ -15,10 +15,11 @@ div {
     height: 100px;
     transition: width 2s linear 2s;
     text-align: center;
-    font-weight: bold
+    font-weight: bold;
 }
 div:hover {
     width: 500px;
     height: 500px;
-    transition: width 2s, height 2s
+    transition: width 2s, height 2s;
+    text-align: center;
 }
