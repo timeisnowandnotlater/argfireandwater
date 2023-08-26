@@ -12,6 +12,8 @@ h2{
 }
 div {
     transition: width 2s linear 2s;
+    text-align: center;
+    font-weight: bold
 }
 div:hover {
     transition: width 2s, height 2s
