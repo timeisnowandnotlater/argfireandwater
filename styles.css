@@ -10,3 +10,9 @@ h2{
     font-weight: normal;
     color: rgb (255, 255, 255);
 }
+div {
+    transition: width 2s linear 2s;
+}
+div:hover {
+    transition: width 2s, height 2s
+}
