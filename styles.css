@@ -18,8 +18,8 @@ div {
     font-weight: bold;
 }
 div:hover {
-    width: 500px;
-    height: 500px;
+    width: 200px;
+    height: 200px;
     transition: width 2s, height 2s;
     text-align: center;
 }
