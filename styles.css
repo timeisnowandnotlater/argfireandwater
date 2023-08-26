@@ -11,10 +11,14 @@ h2{
     color: rgb (255, 255, 255);
 }
 div {
+    width: 100px;
+    height: 100px;
     transition: width 2s linear 2s;
     text-align: center;
     font-weight: bold
 }
 div:hover {
+    width: 500px;
+    height: 500px;
     transition: width 2s, height 2s
 }
