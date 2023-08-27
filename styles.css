@@ -16,12 +16,12 @@ div {
     transition: width 1s transform 1s;
     text-align: center;
     font-weight: bold;
-    background: rgb (255, 0, 0)
+    background: rgb (255, 255, 255);
 }
 div:hover {
     width: 200px;
     height: 200px;
     transition: width 2s, height 2s;
     text-align: center;
-    background: rgb (000, 255, 0)
+    background: rgb (255, 255, 255);
 }
