@@ -25,7 +25,7 @@ div:hover {
     position: center;
 }
 body {
-    background-color: rgb ()
+    background-color: rgb (127.5, 127.5, 127.5);
 }
 button {
     text-align: center;
