@@ -10,20 +10,6 @@ h2{
     font-weight: normal;
     color: rgb (255, 0, 255);
 }
-div {
-    width: 100px;
-    height: 100px;
-    position: center;
-    font-weight: bold;
-    background: rgb (255, 0, 0);
-}
-div:hover {
-    width: 200px;
-    height: 200px;
-    transition: width 2s, height 2s;
-    background: rgb (0, 255, 0);
-    position: center;
-}
 body {
     background-color: rgb (127.5, 127.5, 127.5);
 }
@@ -33,6 +19,3 @@ button {
 p {
     text-align: center;
 }
-@keyframes example {
-  from {top: 0px; background-color: yellow;}
-  to {top: 200px; background-color: blue;}
