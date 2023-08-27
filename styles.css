@@ -26,3 +26,9 @@ div:hover {
 body {
     background-color: rgb ()
 }
+button {
+    text-align: center;
+}
+p {
+    text-align: center;
+}
