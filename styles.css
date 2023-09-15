@@ -1,21 +1,11 @@
-h1 {
-    text-align: center;
-    font-family: "Source Sans Pro", sans-serif;
-    font-weight: bold;
-    color: rgb (255, 0, 255);
-}
-h2{
-    text-align: center;
-    font-family: "Source Sans Pro", sans-serif;
-    font-weight: normal;
-    color: rgb (255, 0, 255);
-}
 body {
-    background-color: rgb (127.5, 127.5, 127.5);
+    background-color: #111111;
+    
 }
-button {
-    text-align: center;
+.w {
+  text-align: center;
+  color: #aaaaaa
 }
-p {
-    text-align: center;
+.cen {
+  text-align: center;
 }
